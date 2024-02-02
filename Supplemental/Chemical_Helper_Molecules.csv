@@ -1,0 +1,18 @@
+O,
+O=O,
+CO,
+[H][H],
+# helper molecules
+O,
+OO,
+C=C,
+r[C-]#[O+],
+OC=O,
+COC=O,
+CO,
+C(=O)=O,
+CC=O,
+OCCO,
+CC(O)=O,
+OC(CCC)=O,
+CC(O)C=C
